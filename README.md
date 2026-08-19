@@ -18,14 +18,6 @@ I'm a PhD Candidate in Applied Mathematics 💻 based in Morocco 🇲🇦. I spe
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE-PSEUDO-GITHUB&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 ### 🎓 Recent Research & PhD Thesis:
 * **Thesis Title:** *Physics-Informed Neural Cellular Automata for Coastal Wave Simulation*
 * **Focus:** Wave propagation, Cellular Automata, PINNs, Dispersive Shallow Water Waves.
